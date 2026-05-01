@@ -90,6 +90,8 @@
 
 🎓 Tecnólogo en Análisis y Desarrollo de Software — SENA (2025)
 
+🎓 Certificado en Ingles con Nivel B2 - TLS (2024)
+
 ---
 
 ## 🌎 Idiomas
@@ -98,6 +100,14 @@
 
 ---
 
+## 📈 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EspiSebas&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EspiSebas&layout=compact&theme=tokyonight" />
+</p>
+
+---
 ## 📫 Contacto
 
 - GitHub: https://github.com/EspiSebas  
